@@ -1,8 +1,8 @@
 # Java Programming Assignments (CSA09)
 
-**Student Name:** Bhuvanesh H  
-**Register Number:** `192524027`  
-**GitHub Repository:** [https://github.com/192524027/CSA09-192524027-Assignments](https://github.com/192524027/CSA09-192524027-Assignments)  
+**Student Name:** N. Loka Bandhava Reddy 
+**Register Number:** `192324167
+**GitHub Repository:** [https://github.com/nlokabandhavareddy/CSA0926-JAVA-Programming)  
 **Environment:** OpenJDK 21.0.13 LTS | Windows 10/11 x64  
 
 ---
