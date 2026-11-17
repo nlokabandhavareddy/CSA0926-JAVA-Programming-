@@ -1,6 +1,0 @@
-Initiating execution chain for stack trace demonstration...
-Exception in thread "main" java.lang.ArithmeticException: / by zero
-	at Task01.UncaughtDemo.methodC(UncaughtDemo.java:9)
-	at Task01.UncaughtDemo.methodB(UncaughtDemo.java:14)
-	at Task01.UncaughtDemo.methodA(UncaughtDemo.java:18)
-	at Task01.UncaughtDemo.main(UncaughtDemo.java:23)
